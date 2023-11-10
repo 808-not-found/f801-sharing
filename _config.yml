@@ -62,5 +62,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: https://github.com/808-not-found/f801-sharing-ghpages.git
+  repo: git@github.com:808-not-found/f801-sharing-ghpages.git
   branch: main
